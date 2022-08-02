@@ -1,0 +1,8 @@
+.Comment-title{font-weight: 600 !important;}
+p.icon-name{font-size: 14px;
+    margin: 0;
+    padding: 6px 4px 5px;}
+
+@media screen and (max-width:294px){
+    .button-group{position: static !important;}
+}
